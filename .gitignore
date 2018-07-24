@@ -1,6 +1,7 @@
 # Data File #
 *.csv
 *.RData
+rsconnect/
 
 # Compiled source #
 ###################
